@@ -1,0 +1,15 @@
+#wrapper {
+    width: 980px;
+    margin: 0px auto;
+}
+#header {
+    height: 200px;
+    background: red;
+}
+#content {
+    background: blue;
+}
+#footer {
+    height: 100px;
+    background: green;
+}
